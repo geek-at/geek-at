@@ -4,7 +4,7 @@
 
 # Hi, I'm Chris
 
-<img align="left" src="https://www.pictshare.net/300/6t9wknv70n.jpg">
+<img align="left" src="https://www.pictshare.net/200/6t9wknv70n.jpg">
 
 [![Blog](https://img.shields.io/badge/-blog.haschek.at-222222?style=flat-square&logo=blog&logoColor=white&link=https://twitter.com/geek_at)](https://blog.haschek.at)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/geek_at)](https://twitter.com/geek_at)
