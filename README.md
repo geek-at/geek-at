@@ -9,6 +9,7 @@
 [![Blog](https://img.shields.io/badge/-blog.haschek.at-222222?style=flat-square&logo=blog&logoColor=white&link=https://twitter.com/geek_at)](https://blog.haschek.at)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/geek_at)](https://twitter.com/geek_at)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-haschek-044a9388/)](https://www.linkedin.com/in/christian-haschek-044a9388/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=geek-at)
 
 - **Infosec** wizard without a beard
 - **Secops** if they let me
@@ -20,8 +21,6 @@
 
 
 ---
-
-![](https://visitor-badge.glitch.me/badge?page_id=geek-at)
 
 ![Chris Github Stats](https://github-readme-stats.vercel.app/api?username=geek-at&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
