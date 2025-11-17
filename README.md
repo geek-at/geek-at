@@ -16,5 +16,4 @@
 - **Exposing** insecure things
 - **Sysadmin** Windows + Linux servers (I just love servers of any kind)
 - **Founder** of [Haschek Solutions](https://github.com/HaschekSolutions)
-- **Co-Founder** of [E'ebo](https://eeboworld.com/)
 - **Blogger** at [blog.haschek.at](https://blog.haschek.at)
